@@ -172,6 +172,8 @@ spring.jpa.show-sql=true
      - JDBC URL: `jdbc:h2:mem:testdb`
      - Username: `sa`
      - Password: (leave empty)
+    
+     -  <img width="1470" height="956" alt="screenshots:h2-console-products" src="https://github.com/user-attachments/assets/5c820212-1967-4b1d-a6c3-08e507bb037f" />
 
 ## Testing with Postman
 

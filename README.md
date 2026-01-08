@@ -4,6 +4,7 @@
 
 This is a RESTful API application built with Spring Boot that provides CRUD (Create, Read, Update, Delete) operations for Product management. The application uses Spring Data JPA with H2 in-memory database for data persistence.
 
+<img width="1470" height="956" alt="Screenshot 2026-01-08 at 15 08 28" src="https://github.com/user-attachments/assets/fe5c4396-d540-4100-936f-9f886e10033c" />
 
 
 

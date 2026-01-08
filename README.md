@@ -14,6 +14,15 @@ This is a RESTful API application built with Spring Boot that provides CRUD (Cre
 
 
 
+<img width="1470" height="956" alt="screenshots:put-update-product" src="https://github.com/user-attachments/assets/afa47bf6-2060-4a24-b3c7-c13ef5359e72" />
+<img width="1470" height="956" alt="screenshots:post-create-product" src="https://github.com/user-attachments/assets/89015bc5-cf38-4727-b90d-37a9013cf003" />
+<img width="1470" height="956" alt="screenshots:h2-console-products" src="https://github.com/user-attachments/assets/ef710934-edf7-4785-84e4-d42247b88ecb" />
+<img width="1470" height="956" alt="screenshots:get-all-products" src="https://github.com/user-attachments/assets/e0ea286e-b899-42eb-840a-51350a0b4b86" />
+<img width="1470" height="956" alt="screenshots:error-404-not-found" src="https://github.com/user-attachments/assets/dae15f1f-746e-4e03-acee-aad5056cd0e1" />
+<img width="1470" height="956" alt="screenshots:delete-product" src="https://github.com/user-attachments/assets/26b90273-827a-4925-a25a-1f5f98ac33a3" />
+
+
+
 
 
 ## Project Structure
@@ -70,6 +79,9 @@ spring.jpa.show-sql=true
 ## API Endpoints
 
 ### 1. Create Product
+
+<img width="1470" height="956" alt="screenshots:post-create-product" src="https://github.com/user-attachments/assets/e5eb9c35-0095-4f4e-8db6-4eee3bfef204" />
+
 - **Method:** `POST`
 - **URL:** `http://localhost:8080/products`
 - **Request Body:**
@@ -87,6 +99,10 @@ spring.jpa.show-sql=true
 ```
 
 ### 2. Get All Products
+
+<img width="1470" height="956" alt="screenshots:get-all-products" src="https://github.com/user-attachments/assets/2476a65c-7056-4248-b073-ba19ded41486" />
+
+
 - **Method:** `GET`
 - **URL:** `http://localhost:8080/products`
 - **Response:** `200 OK`
@@ -104,6 +120,9 @@ spring.jpa.show-sql=true
 ```
 
 ### 3. Get Product by ID
+<img width="1470" height="956" alt="screenshots:get-product-by-id" src="https://github.com/user-attachments/assets/fab81b44-bc3e-428e-88e0-9943398a74b0" />
+
+
 - **Method:** `GET`
 - **URL:** `http://localhost:8080/products/{id}`
 - **Response:** `200 OK`
@@ -119,6 +138,10 @@ spring.jpa.show-sql=true
 ```
 
 ### 4. Update Product
+<img width="1470" height="956" alt="screenshots:put-update-product" src="https://github.com/user-attachments/assets/0f1e6f8a-ceff-41fe-8835-d55386926a8b" />
+
+
+
 - **Method:** `PUT`
 - **URL:** `http://localhost:8080/products/{id}`
 - **Request Body:**
@@ -136,6 +159,9 @@ spring.jpa.show-sql=true
 ```
 
 ### 5. Delete Product
+<img width="1470" height="956" alt="screenshots:delete-product" src="https://github.com/user-attachments/assets/23343c64-af75-4a41-8482-a5d5d414e4a8" />
+
+
 - **Method:** `DELETE`
 - **URL:** `http://localhost:8080/products/{id}`
 - **Response:** `204 No Content`

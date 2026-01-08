@@ -4,24 +4,6 @@
 
 This is a RESTful API application built with Spring Boot that provides CRUD (Create, Read, Update, Delete) operations for Product management. The application uses Spring Data JPA with H2 in-memory database for data persistence.
 
-## Project Scrrenshot
-
-<img width="820" height="849" alt="Screenshot 2026-01-07 at 22 43 16" src="https://github.com/user-attachments/assets/d23f8033-5a2b-467e-87ce-5f596f0b213e" />
-
-<img width="1458" height="849" alt="Screenshot 2026-01-07 at 22 43 31" src="https://github.com/user-attachments/assets/5bc4f555-a6af-4280-be78-59d37114551c" />
-
-<img width="1458" height="849" alt="Screenshot 2026-01-07 at 22 44 34" src="https://github.com/user-attachments/assets/d60128cc-52e4-431e-9221-7bf4c0d1abb2" />
-
-
-
-<img width="1470" height="956" alt="screenshots:put-update-product" src="https://github.com/user-attachments/assets/afa47bf6-2060-4a24-b3c7-c13ef5359e72" />
-<img width="1470" height="956" alt="screenshots:post-create-product" src="https://github.com/user-attachments/assets/89015bc5-cf38-4727-b90d-37a9013cf003" />
-<img width="1470" height="956" alt="screenshots:h2-console-products" src="https://github.com/user-attachments/assets/ef710934-edf7-4785-84e4-d42247b88ecb" />
-<img width="1470" height="956" alt="screenshots:get-all-products" src="https://github.com/user-attachments/assets/e0ea286e-b899-42eb-840a-51350a0b4b86" />
-<img width="1470" height="956" alt="screenshots:error-404-not-found" src="https://github.com/user-attachments/assets/dae15f1f-746e-4e03-acee-aad5056cd0e1" />
-<img width="1470" height="956" alt="screenshots:delete-product" src="https://github.com/user-attachments/assets/26b90273-827a-4925-a25a-1f5f98ac33a3" />
-
-
 
 
 
